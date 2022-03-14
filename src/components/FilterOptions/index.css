@@ -1,0 +1,22 @@
+.profile-and-inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.employment-heading {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.checkbox-list,
+.radio-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.label {
+  margin-left: 10px;
+  color: #ffffff;
+}
